@@ -31,7 +31,7 @@
         "texture_suffix": "iron",
         "texture_color": "d81b60",
         "broken_color": "d81b60",
-        "name_color": "pink",
+        "name_color": "light_purple",
         "override_localization": "Ludicrite"
     },
     "availability": {
