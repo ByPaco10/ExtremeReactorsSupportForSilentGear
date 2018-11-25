@@ -1,0 +1,41 @@
+{
+    "type": "main",
+    "stats": [
+        {"name": "durability",      "value":  5000},
+        {"name": "armor_durability","value":    36},
+        {"name": "enchantability",  "value":     4},
+        {"name": "harvest_level",   "value":     3},
+        {"name": "harvest_speed",   "value":     8},
+        {"name": "melee_damage",    "value":     7},
+        {"name": "magic_damage",    "value":     1},
+        {"name": "attack_speed",    "value": -0.35},
+        {"name": "armor",           "value":    14},
+        {"name": "armor_toughness", "value":     7},
+        {"name": "magic_armor",     "value":     1},
+        {"name": "ranged_damage",   "value":     2},
+        {"name": "ranged_speed",    "value": -0.25},
+        {"name": "rarity",          "value":    48},
+        {"name": "chargeability",   "value":   1.5}
+    ],
+    "traits": [
+    ],
+    "crafting_items": {
+        "normal": {
+            "item": "tp:uranium_ingot",
+            "oredict": "ingotUranium"
+        }
+    },
+    "display": {
+        "hidden": false,
+        "texture_suffix": "iron",
+        "texture_color": "1e8449",
+        "broken_color": "1e8449",
+        "name_color": "Green",
+        "override_localization": "Uranium"
+    },
+    "availability": {
+        "enabled": true,
+        "tier": 3,
+        "tool_blacklist": []
+    }
+}

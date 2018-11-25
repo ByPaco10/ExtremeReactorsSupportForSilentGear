@@ -1,0 +1,42 @@
+{
+    "type": "main",
+    "stats": [
+        {"name": "durability",      "value":  30000},
+        {"name": "armor_durability","value":     40},
+        {"name": "enchantability",  "value":     40},
+        {"name": "harvest_level",   "value":      5},
+        {"name": "harvest_speed",   "value":     30},
+        {"name": "melee_damage",    "value":     17},
+        {"name": "magic_damage",    "value":     25},
+        {"name": "attack_speed",    "value":    0.2},
+        {"name": "armor",           "value":     74},
+        {"name": "armor_toughness", "value":     35},
+        {"name": "magic_armor",     "value":     24},
+        {"name": "ranged_damage",   "value":      7},
+        {"name": "ranged_speed",    "value":    0.2},
+        {"name": "rarity",          "value":    400},
+        {"name": "chargeability",   "value":      5}
+    ],
+    "traits": [
+        {"name": "silentgear:synergy_boost", "level": 4}
+    ],
+    "crafting_items": {
+        "normal": {
+            "item": "tp:ludicrite_ingot",
+            "oredict": "ingotLudicrite"
+        }
+    },
+    "display": {
+        "hidden": false,
+        "texture_suffix": "iron",
+        "texture_color": "d81b60",
+        "broken_color": "d81b60",
+        "name_color": "Pink",
+        "override_localization": "Ludicrite"
+    },
+    "availability": {
+        "enabled": true,
+        "tier": 4,
+        "tool_blacklist": []
+    }
+}
