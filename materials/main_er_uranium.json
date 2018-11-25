@@ -2,7 +2,7 @@
     "type": "main",
     "stats": [
         {"name": "durability",      "value":  5000},
-        {"name": "armor_durability","value":    36},
+        {"name": "armor_durability","value":     4},
         {"name": "enchantability",  "value":     4},
         {"name": "harvest_level",   "value":     3},
         {"name": "harvest_speed",   "value":     8},
