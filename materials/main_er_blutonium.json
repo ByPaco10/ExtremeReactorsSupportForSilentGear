@@ -1,7 +1,7 @@
 {
     "type": "main",
     "stats": [
-        {"name": "durability",      "value":   7500},
+        {"name": "durability",      "value":   2500},
         {"name": "armor_durability","value":      3},
         {"name": "enchantability",  "value":     10},
         {"name": "harvest_level",   "value":      4},
@@ -9,20 +9,20 @@
         {"name": "melee_damage",    "value":     10},
         {"name": "magic_damage",    "value":      8},
         {"name": "attack_speed",    "value":   -0.1},
-        {"name": "armor",           "value":     35},
+        {"name": "armor",           "value":     25},
         {"name": "armor_toughness", "value":     14},
         {"name": "magic_armor",     "value":      6},
         {"name": "ranged_damage",   "value":      5},
         {"name": "ranged_speed",    "value":   -0.1},
         {"name": "rarity",          "value":    120},
-        {"name": "chargeability",   "value":    2.8}
+        {"name": "chargeability",   "value":    1.8}
     ],
     "traits": [
         {"name": "silentgear:synergy_boost", "level": 3}
     ],
     "crafting_items": {
         "normal": {
-            "item": "tp:Blutonium_ingot",
+            "item": "er:Blutonium_ingot",
             "oredict": "ingotBlutonium"
         }
     },

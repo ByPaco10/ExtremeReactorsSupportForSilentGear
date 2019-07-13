@@ -1,7 +1,7 @@
 {
     "type": "main",
     "stats": [
-        {"name": "durability",      "value":  5000},
+        {"name": "durability",      "value":  1000},
         {"name": "armor_durability","value":     4},
         {"name": "enchantability",  "value":     4},
         {"name": "harvest_level",   "value":     3},
@@ -21,7 +21,7 @@
     ],
     "crafting_items": {
         "normal": {
-            "item": "tp:uranium_ingot",
+            "item": "er:uranium_ingot",
             "oredict": "ingotUranium"
         }
     },
